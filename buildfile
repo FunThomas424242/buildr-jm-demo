@@ -2,7 +2,7 @@
 VERSION_NUMBER = "1.0.0-SNAPSHOT"
 
 # Specify Maven 2.0 remote repositories here, like this:
-repositories.remote << "http://www.ibiblio.org/maven2/"
+repositories.remote << "http://jcenter.bintray.com"
 
 LOGBACK = ['ch.qos.logback:logback-classic:jar:1.0.7']
 
